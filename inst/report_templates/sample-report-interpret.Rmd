@@ -309,11 +309,11 @@ A warning or failure means that the sequences will need to be adapter trimmed be
 ```
 
      
-### Kmer content
+### Adapter content
 
    
 ```{r kmer-content, fig.width=4, fig.height=3.5, fig.align='center'}
-qc_plot(qc, "Kmer content")
+qc_plot(qc, "Adapter Content")
 ```
    
         
